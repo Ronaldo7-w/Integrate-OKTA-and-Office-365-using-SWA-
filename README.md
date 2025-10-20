@@ -1,30 +1,29 @@
-# Attack Simulation Training (M365)
+# Integrate OKTA and Office 365 using Secure Web Authentication (SWA)
 
 ## Objective
 
-To perform an Social Engineering attack to see if anyone would open the email and the message they get in their email. 
+Adding Office 365 to an employees OKTA homepage using by using SWA. 
 
 
 ## Skills Learned
 
-- How to create a Social Engineering attack in the Microsoft 365 Admin portal, under Email & Collaboration and choosing Attack Simulation training, so that employees can stay up-to-date on Cybersecurity awareness.
-- 
+- How to integrate Microsoft Office 365 and OKTA, so that employees can access to Word, Excel, Power. etc on their OKTA profile. 
 
 ## Tools Used
 
-- Microsoft 365 Admin Center.
-- Microsoft Defender.
-- Email & Collaboration. 
+- OKTA developer wbesite.
+- Microsoft Azure portal.
+- Office 365. 
 
 
 ## Example below.
 
-The screenshot is showing the overview of the Attack Simulation, and what is the purpose of this training, the simulation name.
-<img width="1915" height="1070" alt="Screenshot 2025-08-30 094249" src="https://github.com/user-attachments/assets/adcf8c42-1280-4886-9263-5e7426d28781" />
+This screenshot is showing that Office 365 is being added to the employee's OKTA profile using SWA that provides a Single Sign-On (SSO) functionally.
+<img width="1875" height="933" alt="Screenshot 2025-07-18 142338" src="https://github.com/user-attachments/assets/c12f2f0b-63ab-4263-bc39-e86bcd695dc6" />
 
-The second screenshot is showing that I chose the Social Engineer attack by chosing the attachment link in an email as the approach.
-<img width="1916" height="1073" alt="Screenshot 2025-08-30 094352" src="https://github.com/user-attachments/assets/fc8918a9-5c1d-4b13-8b94-db00c49594e5" />
+The second screenshot is showing the proccess in the Azure portal to complete the process of Office 365 with OKTA.
+<img width="1871" height="924" alt="Screenshot 2025-07-18 142452" src="https://github.com/user-attachments/assets/d4fcedfe-a195-49c5-91a1-f2283694210c" />
 
-This shows the message that the employee sees when they fail the Social Engineering attack. The employee has to go through a mandatory Cybersecurity training.
-<img width="1917" height="1079" alt="Screenshot 2025-08-30 094501" src="https://github.com/user-attachments/assets/578097cd-f0bb-4f11-8a9f-7edd017a0239" />
+The last screenshot shows the employee now has Office 365 on their OKTA hompage once the process is complete.
+<img width="1897" height="957" alt="Screenshot 2025-07-18 142649" src="https://github.com/user-attachments/assets/96eab336-b405-4b7d-851d-4cc074c64901" />
 
