@@ -1,32 +1,30 @@
-# Integrate-OKTA-and-Office-365-using-SWA
+# Attack Simulation Training (M365)
 
 ## Objective
 
-To integrate OKTA and Microsoft Office 365 using SWA (Security Web Authentication) through Entra ID, so that employees can use the Microsoft Office 365 suite. 
+To perform an Social Engineering attack to see if anyone would open the email and the message they get in their email. 
 
 
 ## Skills Learned
 
-- How to add application to a person's profile in OKTA.
-- Copying the Tenant ID and Primary Domain from Entra ID to OKTA's Microsoft Tenant name and Your Office 365 company domain.
-- Adding users to a group so that they can get access to Office 365.
-- I learned about SWA (Security Web Authentication), so the users can access Office 365 applications.
+- How to create a Social Engineering attack in the Microsoft 365 Admin portal, under Email & Collaboration and choosing Attack Simulation training, so that employees can stay up-to-date on Cybersecurity awareness.
+- 
 
 ## Tools Used
 
-- OKTA.
-- Entra ID.
-- Microsoft Office 365 
+- Microsoft 365 Admin Center.
+- Microsoft Defender.
+- Email & Collaboration. 
 
 
 ## Example below.
 
-The screen is showing that the Office 365 was added to user's account in OKTA.
-<img width="1875" height="933" alt="Screenshot 2025-07-18 142338" src="https://github.com/user-attachments/assets/7aad1eac-a07a-4d44-b073-80303653720f" />
+The screenshot is showing the overview of the Attack Simulation, and what is the purpose of this training, the simulation name.
+<img width="1915" height="1070" alt="Screenshot 2025-08-30 094249" src="https://github.com/user-attachments/assets/adcf8c42-1280-4886-9263-5e7426d28781" />
 
-The second screenshot is showing the Tenant ID and Primary Domain from Entra ID to copy to OKTA.
-<img width="1871" height="924" alt="Screenshot 2025-07-18 142452" src="https://github.com/user-attachments/assets/0a16d04a-63f5-4056-a3c8-e04bc1b262c0" />
+The second screenshot is showing that I chose the Social Engineer attack by chosing the attachment link in an email as the approach.
+<img width="1916" height="1073" alt="Screenshot 2025-08-30 094352" src="https://github.com/user-attachments/assets/fc8918a9-5c1d-4b13-8b94-db00c49594e5" />
 
-The last screenshot shows that the user sees Office 365 when they log into their account.
-<img width="1897" height="957" alt="Screenshot 2025-07-18 142649" src="https://github.com/user-attachments/assets/f459df82-2fd9-46ed-b70c-a559b5acfcf9" />
+This shows the message that the employee sees when they fail the Social Engineering attack. The employee has to go through a mandatory Cybersecurity training.
+<img width="1917" height="1079" alt="Screenshot 2025-08-30 094501" src="https://github.com/user-attachments/assets/578097cd-f0bb-4f11-8a9f-7edd017a0239" />
 
